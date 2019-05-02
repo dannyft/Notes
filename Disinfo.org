@@ -1,5 +1,8 @@
 #+NAME: Notes on disinformation/fake news
 
+This is my collection of notes and resources about
+disinformation/fake news.
+
 * Resources
 ** Webpages
 *** Tjekdet
