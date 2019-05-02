@@ -1,0 +1,26 @@
+#+NAME: Notes on disinformation/fake news
+
+* Resources
+** Webpages
+*** Tjekdet
+    - [[https://www.mm.dk/tjekde][Homepage]]
+*** Securing Democracy
+    - [[https://securingdemocracy.gmfus.org/][Homepage]]
+*** Eu vs. disinfo
+    - [[https://euvsdisinfo.eu/][Homepage]]
+    - [[https://twitter.com/EUvsDisinfo][Twitter]]
+*** STRATCOMCOE
+    - [[https://www.stratcomcoe.org/][Homepage]]
+    - [[https://twitter.com/STRATCOMCOE][Twitter]]
+** Books
+*** Disinformation
+    - [[https://www.amazon.com/Disinformation-Strategies-Undermining-Attacking-Promoting/dp/1936488604/ref=sr_1_1?keywords=disinformation&qid=1556808852&s=gateway&sr=8-1][Amazon]]
+*** Weapons of Math Destruction
+    - [[https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?crid=3VBMENTPG3EOH&keywords=weapon+of+math+destruction&qid=1556808919&s=gateway&sprefix=wepon+of+mat%2Caps%2C-1&sr=8-1][Amazon]]
+*** Hello world
+    - [[https://www.amazon.com/Hello-World-Being-Human-Algorithms/dp/039363499X/ref=sr_1_1?crid=DGA9MYBOVQMQ&keywords=hello+world+hannah+fry&qid=1556809034&s=gateway&sprefix=hello+world+hanna%2Caps%2C229&sr=8-1][Amazon]]
+** Youtube
+*** Manipulation on social media. A mini serie in three parts by SmarterEveryDay
+    1. [[https://www.youtube.com/watch?v=1PGm8LslEb4][Manipulating the YouTube Algorithm]]
+    2. [[https://www.youtube.com/watch?v=V-1RhQ1uuQ4][Twitter Platform Manipulation]]
+    3. [[https://www.youtube.com/watch?v=FY_NtO7SIrY][People are Manipulating You on Facebook]]
