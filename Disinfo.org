@@ -6,7 +6,7 @@ disinformation/fake news.
 * Resources
 ** Webpages
 *** Tjekdet
-    - [[https://www.mm.dk/tjekde][Homepage]]
+    - [[http://tjekdet.dk][Homepage]]
 *** Securing Democracy
     - [[https://securingdemocracy.gmfus.org/][Homepage]]
 *** Eu vs. disinfo
