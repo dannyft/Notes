@@ -67,6 +67,6 @@ Vagrant.configure("2") do |config|
     apt-get update
     apt-get install -y texlive-full
     apt-get install -y texlive-pictures
-    apt-get install -y build-essential
+    apt-get install -y build-essential zsh vim tmux
   SHELL
 end
