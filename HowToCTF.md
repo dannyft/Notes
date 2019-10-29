@@ -3,19 +3,22 @@ This is a list of things I found usefull for CTF.
 
 Getting started: https://trailofbits.github.io/ctf/
 
-== YouTube.com ==
+YouTube.com
+===========
 
 - GynvaelEN https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
 - LiveOverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 - Derek Rook https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
 - IppSec https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
-== Resources ==
+Resources
+=========
 
 - Binary posters https://github.com/corkami/pics/tree/master/binary
 - Payloads All The Things https://github.com/swisskyrepo/PayloadsAllTheThings
 
-== Tools ==
+Tools
+=====
 
 - https://github.com/ReFirmLabs/binwalk
 - https://github.com/Gallopsled/pwntools
@@ -27,13 +30,15 @@ Getting started: https://trailofbits.github.io/ctf/
 - https://portswigger.net/burp/
 - https://gchq.github.io/CyberChef/
 
-== magazines ==
+Magazines
+=========
 
 - https://pagedout.institute/
 - https://www.alchemistowl.org/pocorgtfo/
 - http://phrack.org/
 
-== Books ==
+Books
+=====
 
 - The Tangled Web: A Guide to Securing Modern Web Applications
 - Hacking: The Art of Exploitation
@@ -45,14 +50,17 @@ Getting started: https://trailofbits.github.io/ctf/
 - The Hacker Playbook 1, 2 and 3
 - Web Hacking 101
 
-== CTF webpages ==
+CTF webpages
+============
 
 - https://ctftime.org/
 - https://www.hackthebox.eu
 - https://www.root-me.org/
 - https://picoctf.com/
 
-== Learning and traning ==
+Learning and traning
+====================
 
 - https://cryptopals.com/
 - http://xssgame.com/
+- Getting started on HTB https://0x00sec.org/t/my-hackthebox-ctf-methodology-from-fresh-box-to-root/13980
