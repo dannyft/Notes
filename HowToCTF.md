@@ -27,6 +27,12 @@ Getting started: https://trailofbits.github.io/ctf/
 - https://portswigger.net/burp/
 - https://gchq.github.io/CyberChef/
 
+== magazines ==
+
+- https://pagedout.institute/
+- https://www.alchemistowl.org/pocorgtfo/
+- http://phrack.org/
+
 == Books ==
 
 - The Tangled Web: A Guide to Securing Modern Web Applications
