@@ -25,6 +25,7 @@ Getting started: https://trailofbits.github.io/ctf/
 - https://www.hopperapp.com/
 - https://ghidra-sre.org/
 - https://portswigger.net/burp/
+- https://gchq.github.io/CyberChef/
 
 == Books ==
 
