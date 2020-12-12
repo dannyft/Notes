@@ -28,7 +28,11 @@ Tools
 - https://www.hopperapp.com/
 - https://ghidra-sre.org/
 - https://portswigger.net/burp/
-- https://gchq.github.io/CyberChef/
+- http://icyberchef.com/
+- https://nmap.org/
+- https://github.com/OJ/gobuster
+- https://github.com/danielmiessler/SecLists
+- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 
 Magazines
 =========
@@ -57,6 +61,7 @@ CTF webpages
 - https://www.hackthebox.eu
 - https://www.root-me.org/
 - https://picoctf.com/
+- https://tryhackme.com
 
 Learning and traning
 ====================
@@ -64,3 +69,12 @@ Learning and traning
 - https://cryptopals.com/
 - http://xssgame.com/
 - Getting started on HTB https://0x00sec.org/t/my-hackthebox-ctf-methodology-from-fresh-box-to-root/13980
+- https://tryhackme.com
+- https://pentesterlab.com
+- https://academy.hackthebox.eu/
+- https://www.bugbountyhunter.com/
+
+My setup
+========
+
+https://github.com/dannyft/VMSetup
